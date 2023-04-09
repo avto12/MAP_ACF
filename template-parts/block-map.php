@@ -17,7 +17,7 @@ get_header()
 
 
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBas2d42keDa3dsaOz-ya9xOOjxwqbtKU"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=xxx"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script type="text/javascript">
     (function($) {
